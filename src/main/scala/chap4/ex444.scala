@@ -33,6 +33,8 @@ object ex444 {
       calc match {
         case Success(result) => Success(result - operand)
         case Failure(reason) => Failure(reason)
-      } }
+      }
+  }
+
 
 }
