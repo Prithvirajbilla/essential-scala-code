@@ -16,4 +16,5 @@ case object ObjectEnd extends JsObject
 
 object Main extends App {
   // TODO: Create and stringify some JsValues
+  List
 }
